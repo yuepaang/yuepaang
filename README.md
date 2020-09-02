@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yuepaang.vistor_badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yuepaang.vistor_badge&title=viewers)
