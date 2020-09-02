@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true)](https://github.com/yuepaang/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true"/>
     <i>I love mathematics, but it doesn't.</i><br/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
 </p>
