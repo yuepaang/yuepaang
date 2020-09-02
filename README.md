@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <i>路还很长，不要慌张</i><br/>
+  <i>I love mathematics, but it doesn't.</i><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
 </p>
