@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true"/><br/><br/>
     <i>I love mathematics, but it doesn't love me.</i><br/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/><br/><br/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
     <img src="https://img.shields.io/badge/dynamic/json?label=Twitter%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dpanghuxiong"/>
 </p>
