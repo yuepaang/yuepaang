@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yuepaang.vistor_badge)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yuepaang.vistor_badge&title=viewers)
+
+
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
+</p>
