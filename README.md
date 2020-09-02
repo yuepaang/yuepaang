@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yuepaang/yuepaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-
 <p align="center">
-  <i>A good code is like a story, not a puzzle.</i><br/>
+  <i>路还很长，不要慌张</i><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
 </p>
