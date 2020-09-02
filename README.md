@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true)](https://github.com/yuepaang/github-readme-stats)
+
 
 <p align="center">
   <i>I love mathematics, but it doesn't.</i><br/>
