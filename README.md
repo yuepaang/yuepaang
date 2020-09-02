@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuepaang&theme=gruvbox&show_icons=true"/><br/><br/>
     <i>I love mathematics, but it doesn't.</i><br/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=yuepaang.vistor_badge"/>
 </p>
