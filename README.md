@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yuepaang.vistor_badge)
