@@ -241,22 +241,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">land-transportation-go</span>
-                                <div class="bar" style="width: 17.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.272000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">vrp</span>
-                                <div class="bar" style="width: 13.056000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">flight-schedule-go</span>
+                                <div class="bar" style="width: 13.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">flight-schedule-go</span>
-                                <div class="bar" style="width: 12.847999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">vrp</span>
+                                <div class="bar" style="width: 12.687999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">auto-scheduler-ga-go</span>
-                                <div class="bar" style="width: 9.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                         </div>
@@ -265,7 +265,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2023, 16:02:05  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Feb 2023, 17:01:57  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
