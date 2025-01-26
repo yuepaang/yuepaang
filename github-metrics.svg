@@ -334,22 +334,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">projectx_simulation</span>
-                                <div class="bar" style="width: 71.16000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">89%</span>
+                                <div class="bar" style="width: 73.52000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">rainbox2.0</span>
-                                <div class="bar" style="width: 6.112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.311999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">advent_of_code_2023</span>
-                                <div class="bar" style="width: 2.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">cctv</span>
-                                <div class="bar" style="width: 0.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16799999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -359,17 +354,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 79.52000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.49600000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.33599999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSV</span>
-                                <div class="bar" style="width: 0.16799999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -378,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2025, 16:01:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2025, 17:01:59  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
