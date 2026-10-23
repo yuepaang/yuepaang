@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <br/>
 <!-- </p> -->
 
-![麦门名片](./mcd-card.svg)
+![麦门名片](./mcd-card-neofetch.svg)
